@@ -1,5 +1,4 @@
-/* jshint esversion: 6 */
-/* jshint esversion: 8 */
+//jshint ignore: start
 
 require("isomorphic-fetch");
 const dotenv = require("dotenv");

@@ -1,4 +1,4 @@
-/* jshint esversion: 6*/
+// jshint ignore: start
 
 require("dotenv").config();
 const withCSS = require("@zeit/next-css");
